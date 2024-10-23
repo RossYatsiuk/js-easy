@@ -12,6 +12,7 @@ function countOccurrences(str, char) {
   }
  
   return count;
+
  }
  
  console.log(countOccurrences("hello world", 'o')); // Виведе: 2
